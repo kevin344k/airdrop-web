@@ -99,7 +99,7 @@
         
         nombre:"MAJOR",
         token:"$MAJOR",
-        urlCover:"https://cdn4.cdn-telegram.org/file/JQMx29KQhLvLk7IQfw0dreneyQ9V1plUaTvKNftDEbC2rWqOI3U7_MdsTiDpAHUIEA8s1G9BORwhjEm_mDdTdtX9qmD1iatBceuhntrfsHi0CD7yMuM5i_TGeH1HD4XIN74hIk9goFqUmOoa4LRka5NSDKGG5J2uhOSUuMIC22BeS4I51VHDWNDBwu0MCdTp9SObcZM00wJuFnkjc3tLX7GXa4ZC2EXn_7-yTOGPDtU-AZ1PS9B_KIB28oqbfHFabJoRc-e4g7eV-t6WQ_loVnS7ofzJMAIwoPW_kGrRdiYMNfvmv4AupkPxk1U_wOBMf-aNmMPrUWzz76Eyv3iKtw.jpg",
+        urlCover:"https://cdn4.cdn-telegram.org/file/uIO7X5UU_tXg3nIWsxFGa4lnLWY-o6ypMoEbGZERjpDlPLVrv7QmxjKFy99A9kQrHe4e5ykd1zYu_EFI8EvLKuF5_h5WoYOfouFeWaxixuGgvmMM3TveekNZl6DQPzEZ-G5b-RRi5Jlo6xYKX-TLyMyqiwUG3FSWZEV2LPL_vGwbeXHef-8q1E4_rWOyJBvCXetfWJXZLC6BJHN0TCZCspVGhxujO_Y-lJLIkZ4nTeZxEJ06EWoNlJe56sIRrhVvKhgzIduOwlAmEclKeGVEUmapKRwoiOP669KKe7GUJeF1tur1vwgvUirKhok2b6B8-fA3fAn5iwL1TTvc-LJJCA.jpg",
         jugadores:"",
         communityTelegram:"9.2M",
         urlTelegramCommunity:"https://t.me/starsmajor",
