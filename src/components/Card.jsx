@@ -67,7 +67,7 @@ const handleClick=()=>{
       </div>
 
       <div className="pt-5 border-t-2 border-t-slate-900">
-        <button  className="bg-green-700 hover:bg-green-500 text-white font-bold py-2 px-4 border-b-4 border-green-900 hover:border-green-500 rounded" 
+        <button  className="w-full bg-green-700 hover:bg-green-500 text-white font-bold py-2 px-4 border-b-4 border-green-900 hover:border-green-500 rounded" 
         onClick={handleClick}
         >
           Ganar {data.token}{"  "}

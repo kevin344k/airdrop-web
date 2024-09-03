@@ -160,9 +160,46 @@
         web:"https://web3.solex.ai/",
         urlGame:"https://t.me/solex_ai_bot?start=NjM3ODI1NjMyMQ=="
     },
+    {
+        
+        nombre:"W-COIN",
+        token:"$W-COIN",
+        urlCover:"https://pbs.twimg.com/profile_images/1783586989817614336/h9ZOZ8C9_400x400.jpg",
+        jugadores:"",
+        communityTelegram:"5.1M",
+        urlTelegramCommunity:"https://t.me/w_community",
+        comunityX:"3.2M",
+        urlX:"https://x.com/wcoin_io?s=21",
+        web:"https://w-coin.io/",
+        urlGame:"https://t.me/wcoin_tapbot?start=NjM3ODI1NjMyMQ=="
+    },
 
-
-    
+    {
+        
+        nombre:"SECOND LIVE",
+        token:"$CRUSH",
+        urlCover:"https://pbs.twimg.com/profile_images/1783097534103351296/nhlgx4Ma_400x400.jpg",
+        jugadores:"",
+        communityTelegram:"892K",
+        urlTelegramCommunity:"https://t.me/SL_TonNews",
+        comunityX:"553K",
+        urlX:"https://x.com/SecondLiveReal",
+        web:"https://secondlive.world/",
+        urlGame:"https://t.me/Secondlive_bot/app?startapp=1nwe8uou"
+    },
+    {
+        
+        nombre:"PIGS",
+        token:"$PIGS",
+        urlCover:"https://pbs.twimg.com/profile_images/1812948048605065216/OEYv4J2l_400x400.jpg",
+        jugadores:"",
+        communityTelegram:"2.2M",
+        urlTelegramCommunity:"https://t.me/pigscrew",
+        comunityX:"436K",
+        urlX:"https://x.com/realpigshouse",
+        web:"",
+        urlGame:"https://t.me/PigshouseBot?start=6378256321"
+    },
 
 
 
